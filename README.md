@@ -23,12 +23,7 @@
 <!-- ======================= ABOUT ======================= -->
 ### 👋 About
 
-Security researcher focused on **source-code auditing**, **CVE discovery** in open-source software, and **web application penetration testing**. I hunt real, exploitable bugs — proof-of-concept over theory.
-
-- 🔭 Open-source vulnerability research → published CVEs
-- 🛡️ Web app & API pentesting (OWASP Top 10, IDOR, auth bypass, SQLi, SSRF)
-- ✍️ I write detailed PoCs and disclosure reports
-- 📍 Uzbekistan
+Offensive security specialist focused on Web Application Security, Network Penetration Testing, and Red Team Operations. I find and responsibly disclose vulnerabilities, build proof-of-concept exploits, and teach the craft.
 
 ---
 
