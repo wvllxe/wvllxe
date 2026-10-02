@@ -59,17 +59,3 @@ Offensive security specialist focused on Web Application Security, Network Penet
 **Focus Areas**
 
 `OWASP Top 10` · `Source Code Audit` · `IDOR / BOLA` · `Auth Bypass` · `SQL Injection` · `SSRF` · `API Security` · `PHP Object Injection`
-
----
-
-<!-- ======================= GITHUB STATS ======================= -->
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wvllxe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wvllxe&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wvllxe&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
