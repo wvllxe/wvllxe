@@ -33,6 +33,7 @@ Offensive security specialist focused on Web Application Security, Network Penet
 | 1 | [CVE-2026-100520](https://www.cve.org/CVERecord?id=CVE-2026-100520) | Laranode `< 1.2.1` | Path Traversal → RCE (CWE-22) | ![](https://img.shields.io/badge/8.8-HIGH-critical) | [PoC](https://github.com/wvllxe/CVE-2026-100520-laranode-path-traversal) |
 | 2 | [CVE-2026-104051](https://www.cve.org/CVERecord?id=CVE-2026-104051) | PictShare `< 3.7.1` | Sensitive Info Disclosure (CWE-522) | ![](https://img.shields.io/badge/8.2-HIGH-orange) | [PoC](https://github.com/wvllxe/CVE-2026-104051-pictshare-info-disclosure) |
 | 3 | [CVE-2026-104356](https://www.cve.org/CVERecord?id=CVE-2026-104356) | PictShare `< 3.7.1` | Predictable Token / Weak PRNG (CWE-338) | ![](https://img.shields.io/badge/5.9-MEDIUM-yellow) | [PoC](https://github.com/wvllxe/CVE-2026-104356-pictshare-weak-delete-code) |
+| 4 | [CVE-2026-104991](https://www.cve.org/CVERecord?id=CVE-2026-104991) | Phproject `<= 1.8.6` | Broken Object-Level Authorization / IDOR (CWE-862) | ![](https://img.shields.io/badge/7.1-HIGH-orange) | [PoC](https://github.com/wvllxe/CVE-2026-104991) |
 
 > CVSS 3.1 base scores.
 
