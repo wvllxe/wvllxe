@@ -34,6 +34,7 @@ Offensive security specialist focused on Web Application Security, Network Penet
 | 2 | [CVE&#8209;2026&#8209;104051](https://www.cve.org/CVERecord?id=CVE-2026-104051) | PictShare `< 3.7.1` | Sensitive Info Disclosure (CWE-522) | ![](https://img.shields.io/badge/8.2-HIGH-orange) | [PoC](https://github.com/wvllxe/CVE-2026-104051-pictshare-info-disclosure) |
 | 3 | [CVE&#8209;2026&#8209;104356](https://www.cve.org/CVERecord?id=CVE-2026-104356) | PictShare `< 3.7.1` | Predictable Token / Weak PRNG (CWE-338) | ![](https://img.shields.io/badge/5.9-MEDIUM-yellow) | [PoC](https://github.com/wvllxe/CVE-2026-104356-pictshare-weak-delete-code) |
 | 4 | [CVE&#8209;2026&#8209;104991](https://www.cve.org/CVERecord?id=CVE-2026-104991) | Phproject `<= 1.8.6` | Broken Object-Level Authorization / IDOR (CWE-862) | ![](https://img.shields.io/badge/7.1-HIGH-orange) | [PoC](https://github.com/wvllxe/CVE-2026-104991) |
+| 5 | [CVE&#8209;2026&#8209;104905](https://www.cve.org/CVERecord?id=CVE-2026-104905) | FacturaScripts `<= 2026.66` | PHP Object Injection → Arbitrary File Deletion (CWE-502) | ![](https://img.shields.io/badge/8.1-HIGH-orange) | [PoC](https://github.com/wvllxe/CVE-2026-104905-facturascripts-object-injection) |
 
 > CVSS 3.1 base scores.
 
